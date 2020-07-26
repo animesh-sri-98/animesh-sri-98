@@ -1,15 +1,10 @@
 ### Hi I'm Animesh 👋💻
-<img src= https://user-images.githubusercontent.com/33247732/88475946-0ff1e380-cf52-11ea-9996-2ddab29385a2.png>
-<!--
-**animesh-sri-98/animesh-sri-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src= https://user-images.githubusercontent.com/33247732/88476111-5e53b200-cf53-11ea-8787-ade254d50109.png>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--
+- 🔭 I’m currently working on : Deep Learning Projects
+- 🌱 I’m currently learning : Cloud Computing
+- 💬 Ask me about : Web Development
+- 📫 How to reach me: aa3110@srmist.edu.in
+
 
