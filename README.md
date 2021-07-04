@@ -5,6 +5,5 @@
 - 🔭 I’m currently working on : Deep Learning Projects
 - 🌱 I’m currently learning : Cloud Computing
 - 💬 Ask me about : Web Development
-- 📫 How to reach me: aa3110@srmist.edu.in
-
+- 📫 How to reach me: animesh.sri.gr8@gmail.com
 
