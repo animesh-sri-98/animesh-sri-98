@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on : Deep Learning Projects
-- 🌱 I’m currently learning : Cloud Computing
+- 🌱 I’m currently learning : Cloud Concepts
 - 💬 Ask me about : Web Development
 - 📫 How to reach me: animesh.sri.gr8@gmail.com
 
