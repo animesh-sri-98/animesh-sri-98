@@ -4,6 +4,6 @@
 
 - 🔭 I’m currently working as : DevOps/SRE Engineer
 - 🌱 I’m currently learning : Kubernetes, Golang
-- 💬 Ask me about : Backend development, DevOps best practices
+- 💬 Ask me about : Cloud native application development, DevOps/SRE principles and best practices
 - 📫 How to reach me: animesh.sri.gr8@gmail.com
 
